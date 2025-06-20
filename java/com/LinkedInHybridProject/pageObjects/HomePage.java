@@ -50,7 +50,7 @@ public class HomePage
 			System.out.println("Text is present under Job tab");
 		}
 	} 
-	
+	//setting the people
 	public void setPeoplebtn()
 	{
 		peoplebtn.click();
