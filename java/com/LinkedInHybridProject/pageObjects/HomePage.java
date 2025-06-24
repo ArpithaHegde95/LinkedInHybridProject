@@ -42,7 +42,8 @@ public class HomePage
 	{
 		viewpage.click();
 	} 
-	
+	//added simply
+	//added for checking
 	public void settextname()
 	{
 		if(textname.isDisplayed()==true)
